@@ -1,1 +1,1 @@
-in fichier README pour essayé d'index sur git
+fichier README pour essayé d'index sur git
